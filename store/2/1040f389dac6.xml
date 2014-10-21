@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<store>
+	<info>
+		<id>1</id>
+		<inStoreCoverage>20</inStoreCoverage>
+		<flowMaxRange>70</flowMaxRange>
+		<debug>false</debug>
+		<uploadFreq>5000</uploadFreq>
+		<liveData>false</liveData>
+		<interface>en0</interface>
+		<sysmonVerbose>false</sysmonVerbose>
+		<sysstatecheckperiod>1800000</sysstatecheckperiod>
+		<customerTimeLimit>30000</customerTimeLimit>
+		<flowTimeLimit>20000</flowTimeLimit>
+		<sudo>false</sudo>
+		<sysstate>true</sysstate>
+		<beacontime>10000</beacontime>
+		<beaconinterval>86400000</beaconinterval>
+		<logsize>10000000</logsize>
+		<usemacfile>false</usemacfile>
+		<suicide>-1</suicide>
+		<gui>true</gui>
+		<paramrefresh>60000</paramrefresh>
+	</info>
+</store>
